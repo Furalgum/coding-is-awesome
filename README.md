@@ -2,4 +2,4 @@
 
 ## Awesome is the coding
 
-![GIT](image)
+![GIT](https://github.com/Furalgum/coding-is-awesome/blob/gh-pages/image.png?raw=true)
